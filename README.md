@@ -19,3 +19,8 @@ https://vector3d.shop/products/calilantern-calibration
 Les macros qui sauvent des vies pour le tunages :
 
 Input shaper via des lignes en macros configurables : 
+
+
+Pour expliquer les log : https://doctor-klipper.clmntw.fr/
+
+Pour avoir un BT pour les pico : https://github.com/fbeauKmi/update_klipper_and_mcus

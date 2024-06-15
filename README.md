@@ -7,9 +7,14 @@ Petite liste de lien compilant tout le néscéssaire pour tuner/améliorer son i
 
 Pour les réglages de bases :
 
-Le guide d'Ellis qui est une super mise en bouche pour les réglages génériques, avec quelques spécificités vorons mentionnées : https://ellis3dp.com/Print-Tuning-Guide/
-C'est vieux, pas à jour sur tout, mais peu donner certaines infos complémentaires : https://teachingtechyt.github.io/calibration.html
-Payant, mais très pratique avec ses feuilles excels de calculs, sans doute le truc le plus utilie pour les réglages très poussés : https://vector3d.shop/products/calilantern-calibration
+Le guide d'Ellis qui est une super mise en bouche pour les réglages génériques, avec quelques spécificités vorons mentionnées :
+https://ellis3dp.com/Print-Tuning-Guide/
+
+C'est vieux, pas à jour sur tout, mais peu donner certaines infos complémentaires : 
+https://teachingtechyt.github.io/calibration.html
+
+Payant, mais très pratique avec ses feuilles excels de calculs, sans doute le truc le plus utilie pour les réglages très poussés : 
+https://vector3d.shop/products/calilantern-calibration
 
 Les macros qui sauvent des vies pour le tunages :
 
